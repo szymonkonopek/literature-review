@@ -25,7 +25,7 @@ def main():
     price_cached = pricing["cached_input_per_1m_tokens"]
     price_output = pricing["output_per_1m_tokens"]
     est_output_tokens = config["estimated_output_tokens"]
-    model = config.get("model", "gpt-4o-mini")
+    model = config.get("model", "gpt-5-mini")
 
     system_tokens = count_tokens(system_prompt)
 
