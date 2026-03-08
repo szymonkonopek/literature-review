@@ -39,22 +39,30 @@ def parse_and_validate(raw: str, key: str) -> dict:
     except json.JSONDecodeError as e:
         raise ValueError(f"[{key}] Odpowiedź nie jest poprawnym JSON: {e}\nTreść: {raw!r}")
 
+    # relevance: wymagane, musi być liczbą 0 / 0.5 / 1
     if "relevance" not in data:
-        raise ValueError(f"[{key}] Brak pola 'relevance' w odpowiedzi: {data}")
-
+        raise ValueError(f"[{key}] Brak pola 'relevance'")
     if data["relevance"] not in ALLOWED_RELEVANCE:
-        raise ValueError(f"[{key}] Nieprawidłowa wartość relevance: {data['relevance']}")
+        raise ValueError(f"[{key}] Nieprawidłowa wartość relevance: {data['relevance']!r} (dozwolone: 0, 0.5, 1)")
 
+    # key_topics: wymagane, musi być listą stringów
+    if "key_topics" not in data:
+        raise ValueError(f"[{key}] Brak pola 'key_topics'")
+    if not isinstance(data["key_topics"], list):
+        raise ValueError(f"[{key}] 'key_topics' musi być listą, otrzymano: {type(data['key_topics']).__name__}")
+    if not all(isinstance(t, str) for t in data["key_topics"]):
+        raise ValueError(f"[{key}] Wszystkie elementy 'key_topics' muszą być stringami")
+
+    # sentiment: wymagane, musi być jedną z dozwolonych wartości
     if "sentiment" not in data:
-        raise ValueError(f"[{key}] Brak pola 'sentiment' w odpowiedzi: {data}")
-
+        raise ValueError(f"[{key}] Brak pola 'sentiment'")
     if data["sentiment"] not in ALLOWED_SENTIMENT:
-        raise ValueError(f"[{key}] Nieprawidłowa wartość sentiment: {data['sentiment']}")
+        raise ValueError(f"[{key}] Nieprawidłowa wartość sentiment: {data['sentiment']!r} (dozwolone: {', '.join(sorted(ALLOWED_SENTIMENT))})")
 
     return data
 
 
-def analyze_paper(client: OpenAI, system_prompt: str, key: str, paper_dir: str) -> None:
+def analyze_paper(client: OpenAI, system_prompt: str, key: str, paper_dir: str, config: dict) -> None:
     config_path = os.path.join(paper_dir, "config.json")
     if os.path.exists(config_path):
         print(f"  [{key}] Pominięto — config.json już istnieje")
@@ -73,7 +81,7 @@ def analyze_paper(client: OpenAI, system_prompt: str, key: str, paper_dir: str) 
 
     if not abstract:
         print(f"  [{key}] Pominięto — brak abstraktu")
-        result = {"relevance": None, "relevance_reason": "Brak abstraktu", "key_topics": [], "language": None}
+        result = {"relevance": None, "key_topics": [], "sentiment": None}
         with open(config_path, "w", encoding="utf-8") as f:
             json.dump(result, f, ensure_ascii=False, indent=2)
         return
@@ -81,12 +89,12 @@ def analyze_paper(client: OpenAI, system_prompt: str, key: str, paper_dir: str) 
     user_prompt = build_user_prompt(abstract, title)
 
     response = client.chat.completions.create(
-        model="gpt-4o-mini",
+        model=config["model"],
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ],
-        temperature=0,
+        temperature=1,
     )
 
     raw = response.choices[0].message.content.strip()
@@ -95,7 +103,7 @@ def analyze_paper(client: OpenAI, system_prompt: str, key: str, paper_dir: str) 
     with open(config_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
-    print(f"  [{key}] relevance={result['relevance']} — {result.get('relevance_reason', '')[:80]}")
+    print(f"  [{key}] relevance={result['relevance']} | sentiment={result['sentiment']} | topics={result['key_topics']}")
 
 
 def main():
@@ -114,7 +122,7 @@ def main():
         print("Błąd: brak OPENAI_API_KEY w pliku .env")
         sys.exit(1)
 
-    client = OpenAI(api_key=api_key)
+    client = OpenAI(api_key=api_key, timeout=config.get("timeout_seconds", 20))
     system_prompt = load_system_prompt()
 
     paper_dirs = sorted([
@@ -132,7 +140,7 @@ def main():
     for i, key in enumerate(paper_dirs, 1):
         print(f"[{i}/{total}] {key}")
         try:
-            analyze_paper(client, system_prompt, key, os.path.join(DATA_DIR, key))
+            analyze_paper(client, system_prompt, key, os.path.join(DATA_DIR, key), config)
         except Exception as e:
             print(f"  BŁĄD: {e}")
             errors.append((key, str(e)))
