@@ -4,6 +4,7 @@ Temat pracy magisterskiej: "Wpływ AI na pracę zawodową"
 
 Zakres tematyczny obejmuje m.in.:
 - wpływ sztucznej inteligencji na rynek pracy, zatrudnienie i zawody
+- narzędzia AI wspomagające wykonywanie zawodu
 - automatyzację i augmentację pracy przez AI
 - zmiany kompetencji i kwalifikacji wymaganych od pracowników
 - AI w zarządzaniu zasobami ludzkimi (rekrutacja, ocena, monitoring)
@@ -17,7 +18,7 @@ Odpowiedz WYŁĄCZNIE w formacie JSON, bez żadnego dodatkowego tekstu, komentar
 
 {
   "relevance": <0 | 0.5 | 1>,
-  "key_topics": ["<temat1>", "<temat2>"],
+  "key_topics": ["<temat1>", "<temat2>"], (wyłacznie po angielsku, max 4)
   "sentiment": "<positive | negative | mixed | neutral>"
 }
 
@@ -25,6 +26,8 @@ Skala relevance:
 - 0   = brak związku z tematem pracy
 - 0.5 = częściowy związek (AI lub praca zawodowa, ale nie oba jednocześnie w kontekście tematu)
 - 1   = dobry związek (abstrakt bezpośrednio dotyczy wpływu AI na pracę zawodową)
+
+Jezeli relevance wynosi zero, to key_topics ma być równe []
 
 Skala sentiment (wydźwięk artykułu wobec wpływu AI na pracę):
 - positive = AI przedstawiana głównie jako szansa (nowe miejsca pracy, wyższa produktywność, augmentacja pracowników)
