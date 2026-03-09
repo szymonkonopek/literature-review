@@ -6,5 +6,10 @@
     "reskilling/upskilling",
     "organizational fairness"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 1.9794,
+  "positive_hits": 32,
+  "negative_hits": 18,
+  "total_words": 7073,
+  "final_score": 2.969
 }

@@ -6,5 +6,10 @@
     "Software Engineering",
     "Developer Assistance"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 5.2502,
+  "positive_hits": 85,
+  "negative_hits": 6,
+  "total_words": 15047,
+  "final_score": 2.6251
 }

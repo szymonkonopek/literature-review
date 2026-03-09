@@ -6,5 +6,10 @@
     "AI-driven robotics and quality control",
     "Change management for AI adoption"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 6.2056,
+  "positive_hits": 66,
+  "negative_hits": 18,
+  "total_words": 7735,
+  "final_score": 9.3083
 }

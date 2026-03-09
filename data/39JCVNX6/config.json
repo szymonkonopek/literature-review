@@ -6,5 +6,10 @@
     "Accountability and transparency",
     "AI adoption and acceptance"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 0.2936,
+  "positive_hits": 32,
+  "negative_hits": 28,
+  "total_words": 13624,
+  "final_score": 0.4404
 }

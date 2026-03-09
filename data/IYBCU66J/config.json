@@ -6,5 +6,10 @@
     "explainable AI",
     "user-generated content"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 2.1119,
+  "positive_hits": 40,
+  "negative_hits": 5,
+  "total_words": 16573,
+  "final_score": 1.056
 }

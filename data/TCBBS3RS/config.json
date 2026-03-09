@@ -6,5 +6,10 @@
     "skills and competencies",
     "ethical and social impacts"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 19.6822,
+  "positive_hits": 139,
+  "negative_hits": 4,
+  "total_words": 6859,
+  "final_score": 29.5231
 }

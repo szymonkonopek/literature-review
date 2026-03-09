@@ -6,5 +6,10 @@
     "Quality control",
     "Workplace ergonomics"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": 1.626,
+  "positive_hits": 24,
+  "negative_hits": 5,
+  "total_words": 11685,
+  "final_score": 3.6799
 }

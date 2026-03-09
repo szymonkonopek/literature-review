@@ -6,5 +6,10 @@
     "organizational research",
     "worker outcomes"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 1.5811,
+  "positive_hits": 52,
+  "negative_hits": 28,
+  "total_words": 15179,
+  "final_score": 2.3717
 }

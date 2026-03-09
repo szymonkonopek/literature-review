@@ -6,5 +6,10 @@
     "job demand and occupations",
     "training and workforce development"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 2.0294,
+  "positive_hits": 32,
+  "negative_hits": 15,
+  "total_words": 8377,
+  "final_score": 2.0294
 }

@@ -6,5 +6,10 @@
     "talent management",
     "organizational change"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.0861,
+  "positive_hits": 9,
+  "negative_hits": 1,
+  "total_words": 7366,
+  "final_score": 0.543
 }

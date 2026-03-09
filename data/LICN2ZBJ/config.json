@@ -6,5 +6,10 @@
     "image distortion",
     "perceptual robustness"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.3351,
+  "positive_hits": 24,
+  "negative_hits": 9,
+  "total_words": 11235,
+  "final_score": 0.6676
 }

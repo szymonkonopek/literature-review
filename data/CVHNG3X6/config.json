@@ -6,5 +6,10 @@
     "self-supervised learning",
     "customer information management"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.5144,
+  "positive_hits": 19,
+  "negative_hits": 0,
+  "total_words": 12546,
+  "final_score": 0.7572
 }

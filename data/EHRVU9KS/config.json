@@ -6,5 +6,10 @@
     "employee attitudes",
     "workplace AI use"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.1417,
+  "positive_hits": 4,
+  "negative_hits": 3,
+  "total_words": 7058,
+  "final_score": 0.0708
 }

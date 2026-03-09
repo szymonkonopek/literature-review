@@ -6,5 +6,10 @@
     "Model-driven Engineering",
     "SysML v2"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -0.1817,
+  "positive_hits": 1,
+  "negative_hits": 3,
+  "total_words": 11006,
+  "final_score": -0.0909
 }

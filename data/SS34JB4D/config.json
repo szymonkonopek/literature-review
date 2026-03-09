@@ -6,5 +6,10 @@
     "best practices",
     "engineering challenges"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 2.5444,
+  "positive_hits": 47,
+  "negative_hits": 7,
+  "total_words": 15721,
+  "final_score": 1.2721
 }

@@ -6,5 +6,10 @@
     "Ethics and privacy challenges",
     "Evaluation and adoption of AI tools"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 0.0688,
+  "positive_hits": 15,
+  "negative_hits": 14,
+  "total_words": 14543,
+  "final_score": 0.1031
 }

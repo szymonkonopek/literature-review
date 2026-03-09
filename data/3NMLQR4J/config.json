@@ -6,5 +6,10 @@
     "psychological contract breach",
     "HRM interventions"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": -9.3228,
+  "positive_hits": 48,
+  "negative_hits": 139,
+  "total_words": 9761,
+  "final_score": -23.5631
 }

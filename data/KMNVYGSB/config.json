@@ -6,5 +6,10 @@
     "AI and skill requirements",
     "occupational automatability"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": 0.3449,
+  "positive_hits": 3,
+  "negative_hits": 2,
+  "total_words": 2899,
+  "final_score": -0.345
 }

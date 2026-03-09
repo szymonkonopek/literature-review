@@ -6,5 +6,10 @@
     "organizational readiness",
     "skill-biased technological change"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 1.104,
+  "positive_hits": 22,
+  "negative_hits": 16,
+  "total_words": 5435,
+  "final_score": 1.6558
 }

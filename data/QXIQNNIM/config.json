@@ -6,5 +6,10 @@
     "attitudes toward AI",
     "human-centered ADM"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -1.777,
+  "positive_hits": 1,
+  "negative_hits": 16,
+  "total_words": 8441,
+  "final_score": -1.777
 }

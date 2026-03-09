@@ -6,5 +6,10 @@
     "skills and job demands",
     "automation and augmentation"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 1.335,
+  "positive_hits": 18,
+  "negative_hits": 5,
+  "total_words": 9738,
+  "final_score": 2.0024
 }

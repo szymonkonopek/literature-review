@@ -6,5 +6,10 @@
     "Labour market requirements",
     "Ethics and regulation"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 5.3788,
+  "positive_hits": 39,
+  "negative_hits": 3,
+  "total_words": 6693,
+  "final_score": 8.0682
 }

@@ -6,5 +6,10 @@
     "trust and social acceptability",
     "accountability and professional reputation"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 0.538,
+  "positive_hits": 10,
+  "negative_hits": 2,
+  "total_words": 14870,
+  "final_score": 0.807
 }

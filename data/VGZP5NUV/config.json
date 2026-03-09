@@ -6,5 +6,10 @@
     "organizational strategy",
     "AI-driven job transformation"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 14.2598,
+  "positive_hits": 196,
+  "negative_hits": 15,
+  "total_words": 12693,
+  "final_score": 21.3897
 }

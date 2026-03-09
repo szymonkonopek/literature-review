@@ -6,5 +6,10 @@
     "risk management",
     "policy design"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": 2.6631,
+  "positive_hits": 16,
+  "negative_hits": 4,
+  "total_words": 4506,
+  "final_score": 0.8877
 }

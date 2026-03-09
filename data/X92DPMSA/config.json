@@ -6,5 +6,10 @@
     "AI-driven skill demand",
     "wage effects"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": 0.3051,
+  "positive_hits": 16,
+  "negative_hits": 13,
+  "total_words": 9834,
+  "final_score": -1.0168
 }

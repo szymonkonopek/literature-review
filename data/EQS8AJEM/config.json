@@ -6,5 +6,10 @@
     "workforce transformation",
     "digital skills"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": 12.0461,
+  "positive_hits": 74,
+  "negative_hits": 4,
+  "total_words": 5811,
+  "final_score": 24.7807
 }

@@ -6,5 +6,10 @@
     "transformation of work",
     "human-technology relationships"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -1.4733,
+  "positive_hits": 12,
+  "negative_hits": 23,
+  "total_words": 7466,
+  "final_score": -0.7367
 }

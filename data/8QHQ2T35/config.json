@@ -6,5 +6,10 @@
     "platform work",
     "workplace surveillance"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -1.1064,
+  "positive_hits": 7,
+  "negative_hits": 13,
+  "total_words": 5423,
+  "final_score": -1.1064
 }

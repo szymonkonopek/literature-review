@@ -6,5 +6,10 @@
     "job autonomy",
     "remote and hybrid work"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 11.4749,
+  "positive_hits": 190,
+  "negative_hits": 13,
+  "total_words": 15425,
+  "final_score": 5.7374
 }

@@ -6,5 +6,10 @@
     "LSTM",
     "Boosting ensemble"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 3.2624,
+  "positive_hits": 21,
+  "negative_hits": 0,
+  "total_words": 6437,
+  "final_score": 1.6312
 }

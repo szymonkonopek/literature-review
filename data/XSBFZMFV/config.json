@@ -6,5 +6,10 @@
     "Requirements engineering",
     "Human–machine interaction"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.5741,
+  "positive_hits": 19,
+  "negative_hits": 7,
+  "total_words": 20902,
+  "final_score": 0.2871
 }

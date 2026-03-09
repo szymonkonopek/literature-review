@@ -6,5 +6,10 @@
     "brand ethicality",
     "consumer attitudes"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": 2.3129,
+  "positive_hits": 24,
+  "negative_hits": 2,
+  "total_words": 9512,
+  "final_score": 2.1025
 }

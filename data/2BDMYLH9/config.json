@@ -5,5 +5,10 @@
     "Agile vs Waterfall",
     "hybrid software teams"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.0,
+  "positive_hits": 23,
+  "negative_hits": 23,
+  "total_words": 19059,
+  "final_score": 0.0
 }

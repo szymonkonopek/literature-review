@@ -6,5 +6,10 @@
     "customer experience",
     "sustainable retail"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.9714,
+  "positive_hits": 20,
+  "negative_hits": 0,
+  "total_words": 10145,
+  "final_score": 0.9857
 }

@@ -6,5 +6,10 @@
     "organizational structure",
     "AI governance and ethics"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 10.9375,
+  "positive_hits": 81,
+  "negative_hits": 4,
+  "total_words": 7040,
+  "final_score": 10.9375
 }

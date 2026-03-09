@@ -6,5 +6,10 @@
     "content moderation",
     "code-mixed languages"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.8788,
+  "positive_hits": 19,
+  "negative_hits": 4,
+  "total_words": 7984,
+  "final_score": 0.9394
 }

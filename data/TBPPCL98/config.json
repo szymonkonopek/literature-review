@@ -6,5 +6,10 @@
     "Human-Machine Collaboration",
     "Supervised Classification"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.8888,
+  "positive_hits": 22,
+  "negative_hits": 2,
+  "total_words": 10589,
+  "final_score": 0.9443
 }

@@ -6,5 +6,10 @@
     "zero-shot personalization",
     "automated speech analysis"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -2.0268,
+  "positive_hits": 9,
+  "negative_hits": 29,
+  "total_words": 9868,
+  "final_score": -1.0134
 }

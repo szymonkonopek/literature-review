@@ -6,5 +6,10 @@
     "algorithmic harms and trade-offs",
     "benchmark suite design"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": -0.8997,
+  "positive_hits": 2,
+  "negative_hits": 6,
+  "total_words": 4446,
+  "final_score": -0.6748
 }

@@ -6,5 +6,10 @@
     "Labor market effects",
     "Innovation diffusion"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 4.6121,
+  "positive_hits": 85,
+  "negative_hits": 35,
+  "total_words": 10841,
+  "final_score": 4.6121
 }

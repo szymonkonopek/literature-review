@@ -6,5 +6,10 @@
     "software analytics",
     "traceability graphs"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.4331,
+  "positive_hits": 18,
+  "negative_hits": 10,
+  "total_words": 18470,
+  "final_score": 0.2166
 }

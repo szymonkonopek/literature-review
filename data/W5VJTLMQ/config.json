@@ -6,5 +6,10 @@
     "runtime adaptation",
     "software engineering"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.9994,
+  "positive_hits": 55,
+  "negative_hits": 3,
+  "total_words": 26008,
+  "final_score": 0.9997
 }

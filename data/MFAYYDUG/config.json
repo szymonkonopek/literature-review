@@ -6,5 +6,10 @@
     "organizational coordination",
     "trust and ethics"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 10.104,
+  "positive_hits": 42,
+  "negative_hits": 8,
+  "total_words": 3365,
+  "final_score": 15.156
 }

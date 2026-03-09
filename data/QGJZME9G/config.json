@@ -6,5 +6,10 @@
     "employee service vs AI",
     "emotional intelligence"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 1.3796,
+  "positive_hits": 17,
+  "negative_hits": 3,
+  "total_words": 10148,
+  "final_score": 1.0347
 }

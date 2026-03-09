@@ -6,5 +6,10 @@
     "human resource management",
     "labor markets"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 4.2902,
+  "positive_hits": 37,
+  "negative_hits": 15,
+  "total_words": 5128,
+  "final_score": 2.1451
 }

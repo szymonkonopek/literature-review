@@ -6,5 +6,10 @@
     "developer tools",
     "software security"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.6991,
+  "positive_hits": 18,
+  "negative_hits": 8,
+  "total_words": 14305,
+  "final_score": 0.3495
 }

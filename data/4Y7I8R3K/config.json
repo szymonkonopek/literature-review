@@ -6,5 +6,10 @@
     "knowledge discovery",
     "hybrid professions"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 2.5316,
+  "positive_hits": 28,
+  "negative_hits": 4,
+  "total_words": 9480,
+  "final_score": 2.5317
 }

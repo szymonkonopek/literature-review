@@ -6,5 +6,10 @@
     "energy consumption",
     "model serving"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 3.2126,
+  "positive_hits": 54,
+  "negative_hits": 7,
+  "total_words": 14630,
+  "final_score": 1.6062
 }

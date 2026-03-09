@@ -6,5 +6,10 @@
     "materials informatics",
     "property prediction"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 3.3779,
+  "positive_hits": 23,
+  "negative_hits": 1,
+  "total_words": 6513,
+  "final_score": 1.6889
 }

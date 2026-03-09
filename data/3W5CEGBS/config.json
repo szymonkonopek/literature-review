@@ -6,5 +6,10 @@
     "code obfuscation",
     "cybersecurity"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.4411,
+  "positive_hits": 14,
+  "negative_hits": 3,
+  "total_words": 7633,
+  "final_score": 0.7206
 }

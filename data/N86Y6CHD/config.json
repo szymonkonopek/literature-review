@@ -5,5 +5,10 @@
     "safety verification",
     "neural network verification"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -0.311,
+  "positive_hits": 5,
+  "negative_hits": 9,
+  "total_words": 12863,
+  "final_score": -0.1555
 }

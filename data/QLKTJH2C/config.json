@@ -6,5 +6,10 @@
     "Hyperpartisan News",
     "Text Classification"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -0.5013,
+  "positive_hits": 27,
+  "negative_hits": 32,
+  "total_words": 9975,
+  "final_score": -0.2506
 }

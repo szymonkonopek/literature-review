@@ -6,5 +6,10 @@
     "Automation",
     "Workforce Training"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 3.1321,
+  "positive_hits": 60,
+  "negative_hits": 13,
+  "total_words": 15006,
+  "final_score": 1.5661
 }

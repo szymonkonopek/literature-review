@@ -6,5 +6,10 @@
     "tumor microenvironment",
     "AI in healthcare"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.0741,
+  "positive_hits": 1,
+  "negative_hits": 0,
+  "total_words": 13490,
+  "final_score": 0.037
 }

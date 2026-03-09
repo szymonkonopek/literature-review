@@ -6,5 +6,10 @@
     "carbon footprint",
     "water footprint"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": 0.5902,
+  "positive_hits": 4,
+  "negative_hits": 0,
+  "total_words": 6777,
+  "final_score": 0.2951
 }

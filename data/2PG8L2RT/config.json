@@ -6,5 +6,10 @@
     "workplace augmentation",
     "professional impact"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 3.3969,
+  "positive_hits": 51,
+  "negative_hits": 20,
+  "total_words": 9126,
+  "final_score": 3.3969
 }

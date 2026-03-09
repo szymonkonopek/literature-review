@@ -6,5 +6,10 @@
     "Workplace interactions",
     "Resource flows and expertise"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 2.0218,
+  "positive_hits": 19,
+  "negative_hits": 6,
+  "total_words": 6430,
+  "final_score": 3.0327
 }

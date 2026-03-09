@@ -6,5 +6,10 @@
     "Personalization",
     "Time-saving and Cost Reduction"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": 2.9782,
+  "positive_hits": 27,
+  "negative_hits": 5,
+  "total_words": 7387,
+  "final_score": 6.6333
 }

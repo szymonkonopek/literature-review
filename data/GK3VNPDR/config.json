@@ -6,5 +6,10 @@
     "skills and retraining",
     "regulation and policy"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": -2.8584,
+  "positive_hits": 18,
+  "negative_hits": 56,
+  "total_words": 13294,
+  "final_score": -4.2876
 }

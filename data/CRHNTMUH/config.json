@@ -6,5 +6,10 @@
     "occupational substitution",
     "employee attitudes"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": -0.5863,
+  "positive_hits": 2,
+  "negative_hits": 9,
+  "total_words": 11940,
+  "final_score": -1.3401
 }

@@ -6,5 +6,10 @@
     "SAP systems",
     "machine learning"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.0605,
+  "positive_hits": 8,
+  "negative_hits": 7,
+  "total_words": 16519,
+  "final_score": 0.0302
 }

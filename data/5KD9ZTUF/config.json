@@ -6,5 +6,10 @@
     "financial decision-making",
     "big data"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.3047,
+  "positive_hits": 5,
+  "negative_hits": 1,
+  "total_words": 13128,
+  "final_score": 0.1524
 }

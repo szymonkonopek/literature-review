@@ -6,5 +6,10 @@
     "autonomous drones",
     "collision avoidance"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.8991,
+  "positive_hits": 6,
+  "negative_hits": 0,
+  "total_words": 6673,
+  "final_score": 0.4496
 }

@@ -6,5 +6,10 @@
     "career preferences",
     "adolescent attitudes"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.0,
+  "positive_hits": 11,
+  "negative_hits": 11,
+  "total_words": 7508,
+  "final_score": 0.0
 }

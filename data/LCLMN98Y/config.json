@@ -6,5 +6,10 @@
     "alignment and monitoring",
     "organizational decision-making"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": -3.6227,
+  "positive_hits": 5,
+  "negative_hits": 57,
+  "total_words": 14354,
+  "final_score": -5.4341
 }

@@ -6,5 +6,10 @@
     "low-resource NLP",
     "transformer models"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 3.8397,
+  "positive_hits": 58,
+  "negative_hits": 8,
+  "total_words": 13022,
+  "final_score": 1.9198
 }

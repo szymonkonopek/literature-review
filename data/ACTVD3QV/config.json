@@ -6,5 +6,10 @@
     "Workforce digital skills",
     "Sustainability"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": 0.5473,
+  "positive_hits": 14,
+  "negative_hits": 9,
+  "total_words": 9136,
+  "final_score": 1.0398
 }

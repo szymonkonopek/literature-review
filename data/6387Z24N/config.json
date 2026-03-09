@@ -6,5 +6,10 @@
     "resource-efficiency",
     "proactive-scaling"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.7125,
+  "positive_hits": 14,
+  "negative_hits": 4,
+  "total_words": 14036,
+  "final_score": 0.3562
 }

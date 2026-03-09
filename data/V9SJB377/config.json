@@ -6,5 +6,10 @@
     "Trustworthy ML (fairness, security, accountability)",
     "Skills and team composition"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 0.4929,
+  "positive_hits": 8,
+  "negative_hits": 5,
+  "total_words": 6087,
+  "final_score": 0.7393
 }

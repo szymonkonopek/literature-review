@@ -6,5 +6,10 @@
     "Work design",
     "System usability"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 4.5893,
+  "positive_hits": 80,
+  "negative_hits": 3,
+  "total_words": 16778,
+  "final_score": 2.2946
 }

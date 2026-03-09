@@ -6,5 +6,10 @@
     "HR decision support systems",
     "hiring optimization and diversity"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": 0.4434,
+  "positive_hits": 16,
+  "negative_hits": 10,
+  "total_words": 13531,
+  "final_score": 1.626
 }

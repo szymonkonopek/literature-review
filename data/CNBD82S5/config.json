@@ -6,5 +6,10 @@
     "AI in HR",
     "Tourism sector"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.2943,
+  "positive_hits": 13,
+  "negative_hits": 5,
+  "total_words": 6181,
+  "final_score": 1.2943
 }

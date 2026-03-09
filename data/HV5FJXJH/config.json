@@ -6,5 +6,10 @@
     "machine learning for software engineering",
     "automated quality assurance"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.2579,
+  "positive_hits": 38,
+  "negative_hits": 14,
+  "total_words": 19080,
+  "final_score": 0.6289
 }

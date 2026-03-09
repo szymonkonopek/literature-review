@@ -6,5 +6,10 @@
     "employee trust",
     "AI adoption and decent work"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": 0.9962,
+  "positive_hits": 16,
+  "negative_hits": 9,
+  "total_words": 7027,
+  "final_score": -0.2847
 }

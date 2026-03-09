@@ -6,5 +6,10 @@
     "change fatigue",
     "public sector workforce"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": -1.13,
+  "positive_hits": 6,
+  "negative_hits": 19,
+  "total_words": 11504,
+  "final_score": -1.695
 }

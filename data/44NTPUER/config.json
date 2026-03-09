@@ -6,5 +6,10 @@
     "safety assurance",
     "DevOps/operations"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": -0.3412,
+  "positive_hits": 18,
+  "negative_hits": 23,
+  "total_words": 14654,
+  "final_score": -0.2559
 }

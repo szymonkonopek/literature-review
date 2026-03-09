@@ -6,5 +6,10 @@
     "Monitoring tools",
     "Software development practices"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -12.7074,
+  "positive_hits": 7,
+  "negative_hits": 246,
+  "total_words": 18808,
+  "final_score": -6.3537
 }

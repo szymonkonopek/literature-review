@@ -6,5 +6,10 @@
     "HRI evaluation",
     "robotics safety"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -1.2623,
+  "positive_hits": 1,
+  "negative_hits": 15,
+  "total_words": 11091,
+  "final_score": -0.6311
 }

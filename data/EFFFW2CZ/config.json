@@ -6,5 +6,10 @@
     "bioinformatics",
     "protein sequence modeling"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 11.6213,
+  "positive_hits": 85,
+  "negative_hits": 3,
+  "total_words": 7056,
+  "final_score": 5.8106
 }

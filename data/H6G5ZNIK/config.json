@@ -6,5 +6,10 @@
     "system architecture",
     "category theory"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.0651,
+  "positive_hits": 20,
+  "negative_hits": 19,
+  "total_words": 15351,
+  "final_score": 0.0325
 }

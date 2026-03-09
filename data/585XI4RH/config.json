@@ -6,5 +6,10 @@
     "model interpretability",
     "internal reasoning"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.5194,
+  "positive_hits": 24,
+  "negative_hits": 9,
+  "total_words": 9872,
+  "final_score": 0.7597
 }

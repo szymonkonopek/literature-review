@@ -6,5 +6,10 @@
     "automatability",
     "cultural adaptation to AI"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.1013,
+  "positive_hits": 15,
+  "negative_hits": 14,
+  "total_words": 9870,
+  "final_score": 0.1014
 }

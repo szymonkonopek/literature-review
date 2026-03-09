@@ -6,5 +6,10 @@
     "deep neural networks",
     "human-AI interaction"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 3.9668,
+  "positive_hits": 23,
+  "negative_hits": 2,
+  "total_words": 5294,
+  "final_score": 1.9833
 }

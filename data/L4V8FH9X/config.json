@@ -6,5 +6,10 @@
     "technology adoption",
     "organizational context"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 0.692,
+  "positive_hits": 2,
+  "negative_hits": 0,
+  "total_words": 2890,
+  "final_score": 1.038
 }

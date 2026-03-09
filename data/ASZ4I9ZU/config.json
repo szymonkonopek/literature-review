@@ -6,5 +6,10 @@
     "Automation and augmentation",
     "Workplace impacts"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": -1.6899,
+  "positive_hits": 18,
+  "negative_hits": 38,
+  "total_words": 11835,
+  "final_score": -2.5349
 }

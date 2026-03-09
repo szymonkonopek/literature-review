@@ -6,5 +6,10 @@
     "Employment effects",
     "AI and job displacement"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 4.6787,
+  "positive_hits": 43,
+  "negative_hits": 13,
+  "total_words": 6412,
+  "final_score": 7.0182
 }

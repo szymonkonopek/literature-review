@@ -6,5 +6,10 @@
     "AI-assisted software maintenance",
     "automation/augmentation"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": 2.5858,
+  "positive_hits": 52,
+  "negative_hits": 12,
+  "total_words": 15469,
+  "final_score": 2.9738
 }

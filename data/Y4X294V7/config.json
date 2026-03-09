@@ -6,5 +6,10 @@
     "Transparency and accountability",
     "AI governance"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 2.6599,
+  "positive_hits": 38,
+  "negative_hits": 15,
+  "total_words": 8647,
+  "final_score": 1.3299
 }

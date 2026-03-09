@@ -6,5 +6,10 @@
     "deep learning",
     "sentiment analysis"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.5847,
+  "positive_hits": 22,
+  "negative_hits": 1,
+  "total_words": 13252,
+  "final_score": 0.7923
 }

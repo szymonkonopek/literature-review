@@ -6,5 +6,10 @@
     "workforce skills",
     "organizational strategies"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 2.4445,
+  "positive_hits": 18,
+  "negative_hits": 6,
+  "total_words": 4909,
+  "final_score": 3.6668
 }

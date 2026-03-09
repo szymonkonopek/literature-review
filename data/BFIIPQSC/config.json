@@ -6,5 +6,10 @@
     "Transfer learning",
     "Customer reviews"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 4.8769,
+  "positive_hits": 71,
+  "negative_hits": 9,
+  "total_words": 12713,
+  "final_score": 2.4385
 }

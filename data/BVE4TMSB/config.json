@@ -6,5 +6,10 @@
     "employment law reform",
     "job displacement"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 0.7362,
+  "positive_hits": 107,
+  "negative_hits": 85,
+  "total_words": 29883,
+  "final_score": 1.1043
 }

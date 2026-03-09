@@ -6,5 +6,10 @@
     "Labour market inequality",
     "Causal analysis"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 0.112,
+  "positive_hits": 18,
+  "negative_hits": 17,
+  "total_words": 8930,
+  "final_score": 0.168
 }

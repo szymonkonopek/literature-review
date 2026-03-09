@@ -6,5 +6,10 @@
     "smart environments",
     "usability"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": -0.078,
+  "positive_hits": 3,
+  "negative_hits": 4,
+  "total_words": 12822,
+  "final_score": -0.0585
 }

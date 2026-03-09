@@ -6,5 +6,10 @@
     "HR process efficiency",
     "Automation of recruitment"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 3.4258,
+  "positive_hits": 56,
+  "negative_hits": 14,
+  "total_words": 12260,
+  "final_score": 5.1387
 }

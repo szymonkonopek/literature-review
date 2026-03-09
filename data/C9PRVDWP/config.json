@@ -6,5 +6,10 @@
     "banking sector",
     "thematic analysis"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 6.946,
+  "positive_hits": 68,
+  "negative_hits": 5,
+  "total_words": 9070,
+  "final_score": 3.4729
 }

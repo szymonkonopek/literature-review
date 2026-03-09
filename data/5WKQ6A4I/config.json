@@ -6,5 +6,10 @@
     "skills and qualifications",
     "education and policy"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 3.1128,
+  "positive_hits": 20,
+  "negative_hits": 8,
+  "total_words": 3855,
+  "final_score": 4.6694
 }

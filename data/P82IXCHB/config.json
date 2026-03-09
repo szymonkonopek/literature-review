@@ -6,5 +6,10 @@
     "Labour market",
     "Labour productivity"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 3.9556,
+  "positive_hits": 44,
+  "negative_hits": 3,
+  "total_words": 10365,
+  "final_score": 5.9335
 }

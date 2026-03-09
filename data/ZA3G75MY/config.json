@@ -6,5 +6,10 @@
     "inequality and distributional effects",
     "policy and regulation"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 1.9036,
+  "positive_hits": 118,
+  "negative_hits": 85,
+  "total_words": 17336,
+  "final_score": 2.8553
 }

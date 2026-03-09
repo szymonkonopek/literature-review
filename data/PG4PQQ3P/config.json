@@ -6,5 +6,10 @@
     "psychological resilience",
     "workplace innovation"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": 2.4114,
+  "positive_hits": 19,
+  "negative_hits": 6,
+  "total_words": 5391,
+  "final_score": 1.2984
 }

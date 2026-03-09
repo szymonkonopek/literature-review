@@ -6,5 +6,10 @@
     "peptide prediction",
     "antimicrobial peptides"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 10.3132,
+  "positive_hits": 91,
+  "negative_hits": 10,
+  "total_words": 7854,
+  "final_score": 5.1566
 }

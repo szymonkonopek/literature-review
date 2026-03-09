@@ -6,5 +6,10 @@
     "agile methods",
     "metrics"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.3958,
+  "positive_hits": 35,
+  "negative_hits": 11,
+  "total_words": 17194,
+  "final_score": 0.6979
 }

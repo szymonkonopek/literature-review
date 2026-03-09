@@ -6,5 +6,10 @@
     "supervised learning",
     "unsupervised learning"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -0.0687,
+  "positive_hits": 2,
+  "negative_hits": 3,
+  "total_words": 14552,
+  "final_score": -0.0344
 }

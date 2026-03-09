@@ -6,5 +6,10 @@
     "Sub-Saharan Africa",
     "AI in agriculture"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 2.8641,
+  "positive_hits": 70,
+  "negative_hits": 30,
+  "total_words": 13966,
+  "final_score": 1.4321
 }

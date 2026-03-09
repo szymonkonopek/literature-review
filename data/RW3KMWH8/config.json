@@ -6,5 +6,10 @@
     "job displacement vs creation",
     "econometric analysis (ARDL, Granger causality)"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": -0.8483,
+  "positive_hits": 17,
+  "negative_hits": 24,
+  "total_words": 8252,
+  "final_score": -1.2725
 }

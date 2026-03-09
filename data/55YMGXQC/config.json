@@ -6,5 +6,10 @@
     "Recruitment and Career Paths",
     "Organizational Change and AI Adoption"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 3.6084,
+  "positive_hits": 37,
+  "negative_hits": 7,
+  "total_words": 8314,
+  "final_score": 3.6083
 }

@@ -6,5 +6,10 @@
     "machine learning evaluation",
     "legal profession"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 2.5734,
+  "positive_hits": 27,
+  "negative_hits": 0,
+  "total_words": 10492,
+  "final_score": 2.5734
 }

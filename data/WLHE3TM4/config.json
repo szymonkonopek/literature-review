@@ -6,5 +6,10 @@
     "human-AI trust",
     "employment risks"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 2.6667,
+  "positive_hits": 14,
+  "negative_hits": 3,
+  "total_words": 4125,
+  "final_score": 3.9999
 }

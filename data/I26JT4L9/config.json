@@ -6,5 +6,10 @@
     "Geographic AI exposure",
     "Labor market effects"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.3332,
+  "positive_hits": 14,
+  "negative_hits": 1,
+  "total_words": 9751,
+  "final_score": 1.3332
 }

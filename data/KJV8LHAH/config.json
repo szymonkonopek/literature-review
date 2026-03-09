@@ -6,5 +6,10 @@
     "automated assessment",
     "software maintenance"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -0.1204,
+  "positive_hits": 2,
+  "negative_hits": 4,
+  "total_words": 16612,
+  "final_score": -0.0602
 }

@@ -6,5 +6,10 @@
     "digital culture",
     "competitive advantage"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": 4.1396,
+  "positive_hits": 42,
+  "negative_hits": 5,
+  "total_words": 8938,
+  "final_score": 8.8386
 }

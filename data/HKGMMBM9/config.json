@@ -6,5 +6,10 @@
     "digitalization",
     "bibliometric analysis"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 3.2724,
+  "positive_hits": 46,
+  "negative_hits": 10,
+  "total_words": 11001,
+  "final_score": 3.2724
 }

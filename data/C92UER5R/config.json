@@ -6,5 +6,10 @@
     "Workplace augmentation",
     "Skills and expertise"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.5333,
+  "positive_hits": 20,
+  "negative_hits": 13,
+  "total_words": 13126,
+  "final_score": 0.5333
 }

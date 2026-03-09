@@ -6,5 +6,10 @@
     "panel data analysis",
     "econometrics"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 20.0414,
+  "positive_hits": 206,
+  "negative_hits": 22,
+  "total_words": 9181,
+  "final_score": 20.0413
 }

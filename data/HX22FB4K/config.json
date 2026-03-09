@@ -6,5 +6,10 @@
     "job displacement",
     "service quality impact"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": 0.1912,
+  "positive_hits": 18,
+  "negative_hits": 16,
+  "total_words": 10462,
+  "final_score": -1.3381
 }

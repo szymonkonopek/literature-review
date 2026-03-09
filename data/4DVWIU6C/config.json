@@ -6,5 +6,10 @@
     "decision architectures",
     "institutional and ethical challenges"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.9446,
+  "positive_hits": 43,
+  "negative_hits": 19,
+  "total_words": 12342,
+  "final_score": 1.9445
 }

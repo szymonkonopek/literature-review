@@ -6,5 +6,10 @@
     "workforce upskilling",
     "digital transformation"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 14.6724,
+  "positive_hits": 64,
+  "negative_hits": 6,
+  "total_words": 3953,
+  "final_score": 22.0086
 }

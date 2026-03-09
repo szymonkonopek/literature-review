@@ -6,5 +6,10 @@
     "bias and fairness",
     "employment impacts"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": 1.1501,
+  "positive_hits": 80,
+  "negative_hits": 60,
+  "total_words": 17390,
+  "final_score": -2.3003
 }

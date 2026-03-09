@@ -6,5 +6,10 @@
     "sustainability engagement",
     "AI-enabled leadership systems"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 9.08,
+  "positive_hits": 77,
+  "negative_hits": 1,
+  "total_words": 8370,
+  "final_score": 4.54
 }

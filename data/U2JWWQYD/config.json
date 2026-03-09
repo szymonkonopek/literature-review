@@ -6,5 +6,10 @@
     "research uptake",
     "evidence-based policymaking"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.0444,
+  "positive_hits": 16,
+  "negative_hits": 8,
+  "total_words": 7660,
+  "final_score": 0.5222
 }

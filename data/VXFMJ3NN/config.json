@@ -6,5 +6,10 @@
     "attitudes toward AI",
     "machine translation"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": 0.1847,
+  "positive_hits": 4,
+  "negative_hits": 3,
+  "total_words": 5415,
+  "final_score": -0.3693
 }

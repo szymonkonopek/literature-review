@@ -6,5 +6,10 @@
     "explainability",
     "maintenance cost"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 2.323,
+  "positive_hits": 39,
+  "negative_hits": 5,
+  "total_words": 14636,
+  "final_score": 1.1615
 }

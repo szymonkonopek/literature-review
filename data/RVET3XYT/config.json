@@ -6,5 +6,10 @@
     "smart manufacturing",
     "process control"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": 4.6577,
+  "positive_hits": 72,
+  "negative_hits": 2,
+  "total_words": 15029,
+  "final_score": 4.7241
 }

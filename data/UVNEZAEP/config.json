@@ -6,5 +6,10 @@
     "water quality",
     "sensor analysis"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -3.4662,
+  "positive_hits": 17,
+  "negative_hits": 45,
+  "total_words": 8078,
+  "final_score": -1.7331
 }

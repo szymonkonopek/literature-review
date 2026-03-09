@@ -6,5 +6,10 @@
     "Workforce Competencies",
     "Smart Automation"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 2.787,
+  "positive_hits": 34,
+  "negative_hits": 7,
+  "total_words": 9688,
+  "final_score": 2.787
 }

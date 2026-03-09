@@ -6,5 +6,10 @@
     "Organizational barriers to AI",
     "Regulation and policy for AI"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 2.9793,
+  "positive_hits": 30,
+  "negative_hits": 10,
+  "total_words": 6713,
+  "final_score": 4.4689
 }

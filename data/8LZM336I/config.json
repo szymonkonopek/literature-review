@@ -6,5 +6,10 @@
     "Sustainable HRM",
     "Public Utilities"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 7.0539,
+  "positive_hits": 162,
+  "negative_hits": 47,
+  "total_words": 16303,
+  "final_score": 3.527
 }

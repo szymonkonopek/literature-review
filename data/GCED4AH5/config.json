@@ -6,5 +6,10 @@
     "socio-technical analysis",
     "repository metrics"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 2.4526,
+  "positive_hits": 56,
+  "negative_hits": 12,
+  "total_words": 17940,
+  "final_score": 1.2263
 }

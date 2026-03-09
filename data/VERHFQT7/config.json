@@ -6,5 +6,10 @@
     "branding strategy",
     "theoretical framework"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": 1.2149,
+  "positive_hits": 17,
+  "negative_hits": 0,
+  "total_words": 13993,
+  "final_score": 1.2149
 }

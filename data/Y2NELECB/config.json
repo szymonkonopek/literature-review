@@ -6,5 +6,10 @@
     "Music Generation",
     "Poetry-to-Melody Conversion"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 2.6178,
+  "positive_hits": 26,
+  "negative_hits": 0,
+  "total_words": 9932,
+  "final_score": 1.3089
 }

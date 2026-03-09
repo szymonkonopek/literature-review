@@ -6,5 +6,10 @@
     "energy efficiency",
     "performance evaluation"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -0.5261,
+  "positive_hits": 1,
+  "negative_hits": 7,
+  "total_words": 11404,
+  "final_score": -0.2631
 }

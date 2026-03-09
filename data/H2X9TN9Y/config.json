@@ -6,5 +6,10 @@
     "employee perceptions",
     "socio-technical moderators"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 1.4449,
+  "positive_hits": 41,
+  "negative_hits": 26,
+  "total_words": 10381,
+  "final_score": 2.1673
 }

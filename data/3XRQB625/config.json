@@ -6,5 +6,10 @@
     "AutoML",
     "large language models"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 4.9167,
+  "positive_hits": 31,
+  "negative_hits": 0,
+  "total_words": 6305,
+  "final_score": 2.4583
 }

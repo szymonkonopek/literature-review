@@ -6,5 +6,10 @@
     "HR assessment",
     "Digital/IT skills"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 3.0368,
+  "positive_hits": 17,
+  "negative_hits": 0,
+  "total_words": 5598,
+  "final_score": 3.0368
 }

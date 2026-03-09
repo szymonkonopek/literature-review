@@ -6,5 +6,10 @@
     "deep learning",
     "trustworthiness"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.8073,
+  "positive_hits": 23,
+  "negative_hits": 0,
+  "total_words": 12726,
+  "final_score": 0.9036
 }

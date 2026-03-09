@@ -6,5 +6,10 @@
     "explainable AI",
     "citizen science"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": -0.609,
+  "positive_hits": 7,
+  "negative_hits": 10,
+  "total_words": 4926,
+  "final_score": 0.406
 }

@@ -6,5 +6,10 @@
     "Worker-AI interaction",
     "Workplace voice"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": -0.6588,
+  "positive_hits": 11,
+  "negative_hits": 17,
+  "total_words": 9107,
+  "final_score": -0.9882
 }

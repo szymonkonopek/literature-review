@@ -6,5 +6,10 @@
     "job displacement",
     "labour relations"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 2.1206,
+  "positive_hits": 23,
+  "negative_hits": 7,
+  "total_words": 7545,
+  "final_score": 3.1809
 }

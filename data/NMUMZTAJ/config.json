@@ -6,5 +6,10 @@
     "Workplace Ethics",
     "Algorithmic Bias"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": -4.9805,
+  "positive_hits": 13,
+  "negative_hits": 87,
+  "total_words": 14858,
+  "final_score": -10.8359
 }

@@ -6,5 +6,10 @@
     "labor productivity",
     "economic development"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 7.8642,
+  "positive_hits": 73,
+  "negative_hits": 10,
+  "total_words": 8011,
+  "final_score": 11.7963
 }

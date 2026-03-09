@@ -6,5 +6,10 @@
     "Human-centred work environments",
     "Psychological safety and meaningfulness"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": -0.2272,
+  "positive_hits": 11,
+  "negative_hits": 13,
+  "total_words": 8801,
+  "final_score": 1.0227
 }

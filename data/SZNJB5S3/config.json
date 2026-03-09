@@ -6,5 +6,10 @@
     "data exchange",
     "Gaia-X"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.8555,
+  "positive_hits": 17,
+  "negative_hits": 0,
+  "total_words": 9162,
+  "final_score": 0.9277
 }

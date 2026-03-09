@@ -6,5 +6,10 @@
     "labor productivity",
     "technology adoption"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": 35.2151,
+  "positive_hits": 132,
+  "negative_hits": 1,
+  "total_words": 3720,
+  "final_score": 70.699
 }

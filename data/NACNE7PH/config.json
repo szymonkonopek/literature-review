@@ -6,5 +6,10 @@
     "distributional inequality metrics",
     "algorithm auditing"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -5.5459,
+  "positive_hits": 1,
+  "negative_hits": 52,
+  "total_words": 9196,
+  "final_score": -2.773
 }

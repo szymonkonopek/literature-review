@@ -6,5 +6,10 @@
     "Work and skills",
     "Labor relations and policy"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 4.3172,
+  "positive_hits": 55,
+  "negative_hits": 17,
+  "total_words": 8802,
+  "final_score": 6.4758
 }

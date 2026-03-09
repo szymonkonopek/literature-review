@@ -6,5 +6,10 @@
     "AI tools for professionals",
     "model deployment"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.4719,
+  "positive_hits": 18,
+  "negative_hits": 5,
+  "total_words": 8832,
+  "final_score": 0.7359
 }

@@ -6,5 +6,10 @@
     "Bias and discrimination",
     "Worker wellbeing and employment impacts"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": -5.468,
+  "positive_hits": 14,
+  "negative_hits": 98,
+  "total_words": 15362,
+  "final_score": -11.8475
 }

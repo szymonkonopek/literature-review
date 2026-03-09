@@ -6,5 +6,10 @@
     "Ensemble machine learning",
     "Business decision support"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": 3.9718,
+  "positive_hits": 51,
+  "negative_hits": 11,
+  "total_words": 10071,
+  "final_score": 4.5179
 }

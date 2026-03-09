@@ -6,5 +6,10 @@
     "LSTM ensemble methods",
     "social media content moderation"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.008,
+  "positive_hits": 10,
+  "negative_hits": 1,
+  "total_words": 8929,
+  "final_score": 0.5039
 }

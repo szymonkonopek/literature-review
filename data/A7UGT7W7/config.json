@@ -6,5 +6,10 @@
     "Industry-academia Collaboration",
     "4IR and Labor Market"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 4.3163,
+  "positive_hits": 28,
+  "negative_hits": 6,
+  "total_words": 5097,
+  "final_score": 6.4743
 }

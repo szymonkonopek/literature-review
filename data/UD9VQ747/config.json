@@ -6,5 +6,10 @@
     "job performance",
     "workplace inequality"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 16.254,
+  "positive_hits": 206,
+  "negative_hits": 13,
+  "total_words": 11874,
+  "final_score": 24.381
 }

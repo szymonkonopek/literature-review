@@ -6,5 +6,10 @@
     "Governance as moderator",
     "AI governance and policy"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 1.97,
+  "positive_hits": 45,
+  "negative_hits": 13,
+  "total_words": 16244,
+  "final_score": 2.955
 }

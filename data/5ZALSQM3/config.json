@@ -6,5 +6,10 @@
     "Creative self-efficacy",
     "Cultural differences"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 3.9917,
+  "positive_hits": 34,
+  "negative_hits": 5,
+  "total_words": 7265,
+  "final_score": 5.9877
 }

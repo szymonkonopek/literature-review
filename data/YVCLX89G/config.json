@@ -5,5 +5,10 @@
     "autonomous agents",
     "architecture evaluation"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -0.1063,
+  "positive_hits": 12,
+  "negative_hits": 13,
+  "total_words": 9410,
+  "final_score": -0.0532
 }

@@ -6,5 +6,10 @@
     "automation and augmentation",
     "skills and competencies"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.7623,
+  "positive_hits": 41,
+  "negative_hits": 33,
+  "total_words": 10495,
+  "final_score": 0.7622
 }

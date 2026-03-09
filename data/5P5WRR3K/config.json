@@ -6,5 +6,10 @@
     "occupational inequality",
     "digitalization of work"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 3.5542,
+  "positive_hits": 39,
+  "negative_hits": 8,
+  "total_words": 8722,
+  "final_score": 3.5543
 }

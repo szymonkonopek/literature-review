@@ -6,5 +6,10 @@
     "skill demand",
     "apprenticeships"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 23.9119,
+  "positive_hits": 240,
+  "negative_hits": 12,
+  "total_words": 9535,
+  "final_score": 35.8678
 }

@@ -6,5 +6,10 @@
     "Model-based assessment",
     "Certification and regulation"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.0,
+  "positive_hits": 5,
+  "negative_hits": 5,
+  "total_words": 14459,
+  "final_score": 0.0
 }

@@ -6,5 +6,10 @@
     "lean operations",
     "smart agriculture"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 2.8736,
+  "positive_hits": 32,
+  "negative_hits": 3,
+  "total_words": 10092,
+  "final_score": 1.4367
 }

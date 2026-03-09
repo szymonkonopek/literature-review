@@ -5,5 +5,10 @@
     "NLP applications in market intelligence",
     "Automation of routine analytical tasks"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": 3.7835,
+  "positive_hits": 23,
+  "negative_hits": 0,
+  "total_words": 6079,
+  "final_score": 7.567
 }

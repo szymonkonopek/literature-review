@@ -6,5 +6,10 @@
     "machine learning models",
     "ISBSG dataset"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 4.2042,
+  "positive_hits": 107,
+  "negative_hits": 9,
+  "total_words": 23310,
+  "final_score": 2.1021
 }

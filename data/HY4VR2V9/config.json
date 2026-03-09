@@ -6,5 +6,10 @@
     "Labor law and policy",
     "Comparative EU policy"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": -0.8135,
+  "positive_hits": 47,
+  "negative_hits": 54,
+  "total_words": 8605,
+  "final_score": -1.2203
 }

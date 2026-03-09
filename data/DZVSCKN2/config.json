@@ -6,5 +6,10 @@
     "management support",
     "Health 4.0 (healthcare automation)"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 1.3518,
+  "positive_hits": 16,
+  "negative_hits": 3,
+  "total_words": 9617,
+  "final_score": 2.0277
 }

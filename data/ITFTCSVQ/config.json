@@ -6,5 +6,10 @@
     "Low-code tools",
     "Large Language Models"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.6893,
+  "positive_hits": 43,
+  "negative_hits": 7,
+  "total_words": 21310,
+  "final_score": 0.8446
 }

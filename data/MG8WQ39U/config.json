@@ -6,5 +6,10 @@
     "social media analysis",
     "COVID-19"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.3618,
+  "positive_hits": 13,
+  "negative_hits": 3,
+  "total_words": 7343,
+  "final_score": 0.6809
 }

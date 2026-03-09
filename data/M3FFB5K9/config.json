@@ -6,5 +6,10 @@
     "knowledge sharing",
     "team adoption"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 2.1405,
+  "positive_hits": 26,
+  "negative_hits": 3,
+  "total_words": 10745,
+  "final_score": 1.0703
 }

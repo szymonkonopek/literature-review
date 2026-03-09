@@ -6,5 +6,10 @@
     "microservices",
     "energy efficiency"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -0.0671,
+  "positive_hits": 12,
+  "negative_hits": 13,
+  "total_words": 14897,
+  "final_score": -0.0336
 }

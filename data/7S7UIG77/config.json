@@ -6,5 +6,10 @@
     "framework",
     "reusability"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -0.2405,
+  "positive_hits": 0,
+  "negative_hits": 3,
+  "total_words": 12475,
+  "final_score": -0.1202
 }

@@ -6,5 +6,10 @@
     "platform work",
     "public perceptions"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.1577,
+  "positive_hits": 5,
+  "negative_hits": 3,
+  "total_words": 12686,
+  "final_score": 0.0788
 }

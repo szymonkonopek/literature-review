@@ -6,5 +6,10 @@
     "autoscaling",
     "cloud/edge computing"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.0,
+  "positive_hits": 4,
+  "negative_hits": 4,
+  "total_words": 13640,
+  "final_score": 0.0
 }

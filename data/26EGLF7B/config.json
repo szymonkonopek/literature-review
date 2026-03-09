@@ -6,5 +6,10 @@
     "biological inspiration",
     "robust perception"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.4016,
+  "positive_hits": 26,
+  "negative_hits": 23,
+  "total_words": 7471,
+  "final_score": 0.2008
 }

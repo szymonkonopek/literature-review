@@ -6,5 +6,10 @@
     "AI in HR",
     "Workplace automation"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": -2.4814,
+  "positive_hits": 14,
+  "negative_hits": 19,
+  "total_words": 2015,
+  "final_score": -3.7221
 }

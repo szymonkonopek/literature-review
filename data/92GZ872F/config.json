@@ -6,5 +6,10 @@
     "developer communication",
     "aggressiveness detection"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.1278,
+  "positive_hits": 10,
+  "negative_hits": 7,
+  "total_words": 23473,
+  "final_score": 0.0639
 }

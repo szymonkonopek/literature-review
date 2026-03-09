@@ -6,5 +6,10 @@
     "food delivery services",
     "machine learning"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.4225,
+  "positive_hits": 20,
+  "negative_hits": 2,
+  "total_words": 12654,
+  "final_score": 0.7112
 }

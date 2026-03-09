@@ -6,5 +6,10 @@
     "machine learning for code",
     "vulnerability detection"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.4397,
+  "positive_hits": 25,
+  "negative_hits": 2,
+  "total_words": 15975,
+  "final_score": 0.7198
 }

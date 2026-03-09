@@ -6,5 +6,10 @@
     "decision-making",
     "information retrieval"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.0886,
+  "positive_hits": 5,
+  "negative_hits": 4,
+  "total_words": 11283,
+  "final_score": 0.0443
 }

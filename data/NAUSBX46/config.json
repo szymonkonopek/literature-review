@@ -6,5 +6,10 @@
     "industry differences (service vs manufacturing)",
     "psychological adaptation / technological well-being"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": -0.9589,
+  "positive_hits": 50,
+  "negative_hits": 61,
+  "total_words": 11472,
+  "final_score": -1.4384
 }

@@ -6,5 +6,10 @@
     "large language models",
     "assessment security"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": 1.6463,
+  "positive_hits": 18,
+  "negative_hits": 2,
+  "total_words": 9719,
+  "final_score": 1.4404
 }

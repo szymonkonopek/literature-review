@@ -6,5 +6,10 @@
     "Labor market dynamics",
     "Policy responses"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": -1.1669,
+  "positive_hits": 23,
+  "negative_hits": 32,
+  "total_words": 7713,
+  "final_score": -5.3156
 }

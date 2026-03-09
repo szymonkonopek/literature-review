@@ -6,5 +6,10 @@
     "human-AI interaction",
     "emotional attachment"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": 0.0,
+  "positive_hits": 0,
+  "negative_hits": 0,
+  "total_words": 2910,
+  "final_score": 0.0
 }

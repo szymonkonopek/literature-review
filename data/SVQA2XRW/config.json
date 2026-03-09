@@ -6,5 +6,10 @@
     "human–AI complementarity",
     "workforce equity"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 2.9293,
+  "positive_hits": 59,
+  "negative_hits": 22,
+  "total_words": 12631,
+  "final_score": 4.394
 }

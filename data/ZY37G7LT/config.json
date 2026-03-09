@@ -6,5 +6,10 @@
     "career competencies",
     "sustainable careers"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 1.0869,
+  "positive_hits": 29,
+  "negative_hits": 15,
+  "total_words": 12881,
+  "final_score": 1.6303
 }

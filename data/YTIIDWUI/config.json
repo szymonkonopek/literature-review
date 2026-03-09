@@ -6,5 +6,10 @@
     "capital concentration",
     "economic inequality"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": 1.5858,
+  "positive_hits": 32,
+  "negative_hits": 20,
+  "total_words": 7567,
+  "final_score": -1.0573
 }

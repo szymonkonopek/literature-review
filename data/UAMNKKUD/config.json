@@ -6,5 +6,10 @@
     "labor-saving technologies",
     "skill-biased effects"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": -0.2954,
+  "positive_hits": 22,
+  "negative_hits": 25,
+  "total_words": 10157,
+  "final_score": -0.4431
 }

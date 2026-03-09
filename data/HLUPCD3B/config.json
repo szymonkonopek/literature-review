@@ -6,5 +6,10 @@
     "future of work",
     "wage inequality"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 0.5084,
+  "positive_hits": 59,
+  "negative_hits": 53,
+  "total_words": 11801,
+  "final_score": 0.7627
 }

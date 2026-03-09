@@ -6,5 +6,10 @@
     "organizational trust-building",
     "trust management strategies"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 1.2188,
+  "positive_hits": 25,
+  "negative_hits": 10,
+  "total_words": 12307,
+  "final_score": 0.9142
 }

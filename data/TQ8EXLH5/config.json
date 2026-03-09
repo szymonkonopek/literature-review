@@ -6,5 +6,10 @@
     "Public sector digital transformation",
     "Time and cost savings"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.9177,
+  "positive_hits": 25,
+  "negative_hits": 18,
+  "total_words": 7628,
+  "final_score": 0.9177
 }

@@ -6,5 +6,10 @@
     "Quality metrics",
     "System architecture"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.0159,
+  "positive_hits": 30,
+  "negative_hits": 17,
+  "total_words": 12796,
+  "final_score": 0.508
 }

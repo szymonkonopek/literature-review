@@ -6,5 +6,10 @@
     "Organizational resources and readiness",
     "Skills, leadership and culture"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 4.5953,
+  "positive_hits": 94,
+  "negative_hits": 24,
+  "total_words": 15233,
+  "final_score": 6.8929
 }

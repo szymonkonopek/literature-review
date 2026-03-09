@@ -6,5 +6,10 @@
     "data rescue",
     "meteorological reconstruction"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.6413,
+  "positive_hits": 9,
+  "negative_hits": 0,
+  "total_words": 14035,
+  "final_score": 0.3206
 }

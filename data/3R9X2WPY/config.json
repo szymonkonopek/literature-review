@@ -6,5 +6,10 @@
     "migrant workers",
     "organizational behavior"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": -7.6093,
+  "positive_hits": 34,
+  "negative_hits": 89,
+  "total_words": 7228,
+  "final_score": -11.4139
 }

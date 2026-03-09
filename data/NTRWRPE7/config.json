@@ -6,5 +6,10 @@
     "Job displacement",
     "Technology acceptance models"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": -5.0063,
+  "positive_hits": 49,
+  "negative_hits": 120,
+  "total_words": 14182,
+  "final_score": -7.5094
 }

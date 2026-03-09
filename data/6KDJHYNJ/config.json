@@ -6,5 +6,10 @@
     "worker-centered technology",
     "labor impacts"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 3.6956,
+  "positive_hits": 37,
+  "negative_hits": 10,
+  "total_words": 7306,
+  "final_score": 5.5434
 }

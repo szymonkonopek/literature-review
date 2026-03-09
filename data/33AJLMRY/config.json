@@ -6,5 +6,10 @@
     "legal and regulatory frameworks",
     "fairness and ethics"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": -2.428,
+  "positive_hits": 12,
+  "negative_hits": 26,
+  "total_words": 5766,
+  "final_score": -3.642
 }

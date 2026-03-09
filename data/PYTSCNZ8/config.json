@@ -6,5 +6,10 @@
     "AI-assisted workflows",
     "digital transformation in libraries"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 15.5246,
+  "positive_hits": 29,
+  "negative_hits": 0,
+  "total_words": 1868,
+  "final_score": 23.2869
 }

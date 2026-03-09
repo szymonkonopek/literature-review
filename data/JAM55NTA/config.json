@@ -6,5 +6,10 @@
     "privacy and worker autonomy",
     "labor control"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": -11.978,
+  "positive_hits": 12,
+  "negative_hits": 125,
+  "total_words": 9434,
+  "final_score": -25.2278
 }

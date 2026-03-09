@@ -6,5 +6,10 @@
     "Automation in software engineering",
     "Work augmentation"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": 0.9264,
+  "positive_hits": 38,
+  "negative_hits": 23,
+  "total_words": 16191,
+  "final_score": 3.2735
 }

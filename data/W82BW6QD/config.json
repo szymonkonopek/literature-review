@@ -6,5 +6,10 @@
     "corporate social responsibility",
     "labour market impact"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": -1.0336,
+  "positive_hits": 5,
+  "negative_hits": 16,
+  "total_words": 10642,
+  "final_score": -2.5372
 }

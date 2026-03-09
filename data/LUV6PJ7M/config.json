@@ -6,5 +6,10 @@
     "Disability inclusion",
     "Work redesign"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": -1.4679,
+  "positive_hits": 9,
+  "negative_hits": 17,
+  "total_words": 5450,
+  "final_score": -2.2018
 }

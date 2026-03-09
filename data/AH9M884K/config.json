@@ -6,5 +6,10 @@
     "employer surveys",
     "job creation and destruction"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 5.5077,
+  "positive_hits": 26,
+  "negative_hits": 3,
+  "total_words": 4176,
+  "final_score": 5.5077
 }

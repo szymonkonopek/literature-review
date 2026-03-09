@@ -6,5 +6,10 @@
     "Edge computing",
     "Operator workflows"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 1.5353,
+  "positive_hits": 17,
+  "negative_hits": 2,
+  "total_words": 9770,
+  "final_score": 0.7676
 }

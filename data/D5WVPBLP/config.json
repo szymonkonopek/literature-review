@@ -6,5 +6,10 @@
     "employee mental health",
     "corporate social responsibility"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 2.1715,
+  "positive_hits": 90,
+  "negative_hits": 44,
+  "total_words": 21184,
+  "final_score": 3.2572
 }

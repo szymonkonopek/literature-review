@@ -6,5 +6,10 @@
     "Organizational culture",
     "Employee retraining expectations"
   ],
-  "sentiment": "negative"
+  "sentiment": "negative",
+  "keyword_score": 6.2471,
+  "positive_hits": 64,
+  "negative_hits": 10,
+  "total_words": 8644,
+  "final_score": 5.0902
 }

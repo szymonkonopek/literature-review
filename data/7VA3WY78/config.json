@@ -6,5 +6,10 @@
     "Information management",
     "Sustainability"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": 1.1424,
+  "positive_hits": 15,
+  "negative_hits": 7,
+  "total_words": 7003,
+  "final_score": 1.6421
 }

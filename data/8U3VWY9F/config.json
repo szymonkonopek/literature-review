@@ -6,5 +6,10 @@
     "regularization",
     "neural networks"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 2.0487,
+  "positive_hits": 19,
+  "negative_hits": 3,
+  "total_words": 7810,
+  "final_score": 1.0243
 }

@@ -6,5 +6,10 @@
     "healthcare performance",
     "ethical challenges of AI"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 13.2761,
+  "positive_hits": 39,
+  "negative_hits": 5,
+  "total_words": 2561,
+  "final_score": 19.914
 }

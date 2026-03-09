@@ -6,5 +6,10 @@
     "human resource development",
     "organizational training strategy"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": 12.2873,
+  "positive_hits": 27,
+  "negative_hits": 1,
+  "total_words": 2116,
+  "final_score": 25.0472
 }

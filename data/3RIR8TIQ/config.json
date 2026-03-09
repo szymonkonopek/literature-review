@@ -6,5 +6,10 @@
     "digital workplace",
     "organizational adoption"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.2508,
+  "positive_hits": 3,
+  "negative_hits": 1,
+  "total_words": 7973,
+  "final_score": 0.2509
 }

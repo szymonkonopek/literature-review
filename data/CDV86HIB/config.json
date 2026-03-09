@@ -6,5 +6,10 @@
     "AI adoption",
     "workforce transformation"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 6.8343,
+  "positive_hits": 74,
+  "negative_hits": 24,
+  "total_words": 7316,
+  "final_score": 6.8343
 }

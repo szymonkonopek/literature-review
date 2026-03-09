@@ -6,5 +6,10 @@
     "variability management",
     "software reuse"
   ],
-  "sentiment": "positive"
+  "sentiment": "positive",
+  "keyword_score": 1.6398,
+  "positive_hits": 11,
+  "negative_hits": 0,
+  "total_words": 6708,
+  "final_score": 3.2796
 }

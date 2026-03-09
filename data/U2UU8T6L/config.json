@@ -6,5 +6,10 @@
     "artificial intelligence",
     "remote work platforms"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 4.0968,
+  "positive_hits": 24,
+  "negative_hits": 3,
+  "total_words": 5126,
+  "final_score": 4.0967
 }

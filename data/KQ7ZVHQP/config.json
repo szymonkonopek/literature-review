@@ -6,5 +6,10 @@
     "fuel consumption estimation",
     "deep learning models"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": 0.6626,
+  "positive_hits": 21,
+  "negative_hits": 12,
+  "total_words": 13582,
+  "final_score": 0.3314
 }

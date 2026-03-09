@@ -6,5 +6,10 @@
     "hospitality industry impact",
     "job displacement and social concerns"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 2.7678,
+  "positive_hits": 18,
+  "negative_hits": 1,
+  "total_words": 6142,
+  "final_score": 4.1517
 }

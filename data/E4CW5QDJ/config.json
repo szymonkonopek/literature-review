@@ -6,5 +6,10 @@
     "job insecurity",
     "AI self-efficacy"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 7.4868,
+  "positive_hits": 122,
+  "negative_hits": 4,
+  "total_words": 15761,
+  "final_score": 11.2302
 }

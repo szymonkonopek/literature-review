@@ -6,5 +6,10 @@
     "ethics",
     "skills and training"
   ],
-  "sentiment": "mixed"
+  "sentiment": "mixed",
+  "keyword_score": 0.6796,
+  "positive_hits": 24,
+  "negative_hits": 20,
+  "total_words": 5886,
+  "final_score": 1.0194
 }

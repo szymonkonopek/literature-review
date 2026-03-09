@@ -6,5 +6,10 @@
     "airline industry",
     "text mining"
   ],
-  "sentiment": "neutral"
+  "sentiment": "neutral",
+  "keyword_score": -0.0927,
+  "positive_hits": 4,
+  "negative_hits": 5,
+  "total_words": 10784,
+  "final_score": -0.0464
 }
