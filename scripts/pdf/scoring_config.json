@@ -1,0 +1,10 @@
+{
+  "sentiment_multipliers": {
+    "positive": 2.0,
+    "negative": 2.0,
+    "mixed": 1.5,
+    "neutral": 1.0
+  },
+  "normalize_per_words": 1000,
+  "skip_relevance": [0]
+}
